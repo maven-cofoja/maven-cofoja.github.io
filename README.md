@@ -4,6 +4,7 @@ Used as maven repository for cofoja (https://github.com/nhatminhle/cofoja)
 
 to use:
 
+```xml
 <repository>
   <id>maven-cofoja-repo</id>
   <url>http://maven-cofoja.github.io/maven</url>
@@ -14,3 +15,4 @@ to use:
   <artifactId>cofoja</artifactId>
   <version>1.3</version>
 </dependency>
+```
